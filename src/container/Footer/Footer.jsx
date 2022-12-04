@@ -13,7 +13,7 @@ const Footer = () => (
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">Rua Santa Catarina nº50 Porto Portugal</p>
-        <p className="p__opensans">+351916054918</p>
+        <p className="p__opensans">+351916054919</p>
         <p className="p__opensans">element@email.pt</p>
       </div>
 
